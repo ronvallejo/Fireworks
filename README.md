@@ -24,17 +24,26 @@ Welcome to the Fireworks Ordering System! This project is designed to help you l
 
 ## Project Setup
 
-### Step 1: Clone the Repository
-First, clone the repository to your local machine.
+### Step 1: From VS Code Open Terminal
+
+### Step 2: Clone Assignment Folder from Github
+Copy/Paste this command in your terminal in VS Code then hit **Enter**
 
 ```zsh
-git clone <repository-url>
-cd <repository-folder>
+git clone https://github.com/ronvallejo/Fireworks.git
+```
 
-### Step 2: Install the Required Packages
+### Step 2: Navigate to your Assignment
+Copy/Paste this command in your terminal in VS Code then hit **Enter**
 
+```zsh
+cd Fireworks
+```
+
+### Step 3: Install the Required Packages
+Copy/Paste this command in your terminal in VS Code then hit **Enter**
+
+```zsh
 pip install -r requirements.txt
-
-### Open/Edit the Provided "app.py" Python Application
-
+```
 
